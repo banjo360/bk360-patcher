@@ -7,7 +7,7 @@ No checks are done on the data, so you can set that one needs more than one jigg
 ## Usage
 
 ```console
-$ bk360-rando-patcher <file>.xex <file>.json
+$ bk360-patcher <file>.xex <file>.json
 ```
 
 ## JSON
